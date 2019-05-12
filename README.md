@@ -1,5 +1,7 @@
 # EveryBreathYouTake
 The visualisation can be viewed at http://shiny.evl.uic.edu:3838/g3/Every_Breath_You_Take/
+MORE ABOUT THE PROJECT: https://sthiru5.people.uic.edu/CS424/project2.html
+
 It is an interactive visualisation concerning United States and Hong Kong's weather data on a YEARLY, DAILY and HOURLY basis.
 
 The pre-processed and cleaned data files can be found at: https://drive.google.com/file/d/1bhHpvdwdsZ8Pvzw00yPRwgaSnrYMtAXp/view
